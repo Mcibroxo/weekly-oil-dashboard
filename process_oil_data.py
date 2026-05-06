@@ -15,7 +15,7 @@ def clean_value(v):
         return v
 
 def run_parser():
-    csv_path = "c:/Users/17169/Desktop/Oil data/table1.csv"
+    csv_path = "table1.csv"
     if not os.path.exists(csv_path):
         print("table1.csv not found!")
         return
@@ -156,7 +156,7 @@ def run_parser():
             flows.append(cleaned_row)
 
     # Output simplified CSV
-    simplified_csv_path = "c:/Users/17169/Desktop/Oil data/filtered_crude_oil_data.csv"
+    simplified_csv_path = "filtered_crude_oil_data.csv"
     with open(simplified_csv_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         # Section 1: Stocks
@@ -193,7 +193,7 @@ def run_parser():
     }
     
     # Save as JSON
-    with open("c:/Users/17169/Desktop/Oil data/oil_dashboard_data.json", "w", encoding="utf-8") as f:
+    with open("oil_dashboard_data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
     print("JSON data written for web app!")
 

@@ -2,7 +2,7 @@ import json
 import os
 
 def generate_html():
-    json_path = "c:/Users/17169/Desktop/Oil data/oil_dashboard_data.json"
+    json_path = "oil_dashboard_data.json"
     if not os.path.exists(json_path):
         print("oil_dashboard_data.json not found!")
         return
@@ -1392,7 +1392,7 @@ def generate_html():
 </html>
 """
 
-    output_path = "c:/Users/17169/Desktop/Oil data/index.html"
+    output_path = "index.html"
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html_content)
 
