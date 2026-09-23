@@ -1,25 +1,25 @@
 SECTION 1: CRUDE OIL & PETROLEUM STOCK LEVELS (Inventories in Million Barrels)
-Metric,Current Week (9/11/26),Week Ago (9/4/26),Weekly Change,Weekly % Change,Year Ago (9/12/25),Yearly Change,Yearly % Change
-Crude Oil,708.386,709.429,-1.043,-0.1,821.089,-112.703,-13.7
-Commercial (Excluding SPR),423.429,424.069,-0.64,-0.2,415.361,8.068,1.9
-Strategic Petroleum Reserve (SPR),284.957,285.36,-0.403,-0.1,405.728,-120.771,-29.8
-Total Stocks (Including SPR),1536.205,1534.001,2.204,0.1,1688.149,-151.943,-9.0
-Total Stocks (Excluding SPR),1251.248,1248.641,2.607,0.2,1282.421,-31.172,-2.4
+Metric,Current Week (9/18/26),Week Ago (9/11/26),Weekly Change,Weekly % Change,Year Ago (9/19/25),Yearly Change,Yearly % Change
+Crude Oil,710.95,708.386,2.564,0.4,820.712,-109.762,-13.4
+Commercial (Excluding SPR),426.398,423.429,2.969,0.7,414.754,11.644,2.8
+Strategic Petroleum Reserve (SPR),284.552,284.957,-0.405,-0.1,405.958,-121.406,-29.9
+Total Stocks (Including SPR),1535.908,1536.205,-0.297,0.0,1687.905,-151.997,-9.0
+Total Stocks (Excluding SPR),1251.356,1251.248,0.108,0.0,1281.947,-30.591,-2.4
 
 SECTION 2: CRUDE OIL & PETROLEUM FLOWS (Rates in Thousand Barrels per Day)
 Metric,Current Week Flow,Week Ago Flow,Weekly Change,Year Ago Flow,Yearly Change,4-Week Avg (Current),4-Week Avg (Year Ago),4-Week Avg % Change,Cum. Daily Avg (Current),Cum. Daily Avg (Year Ago),Cum. Daily Avg % Change
-Crude Oil Production (Total),13944.0,13947.0,-3.0,13482.0,462.0,13899.0,13460.0,3.3,13730.0,13437.0,2.2
-Crude Oil Production (Alaska),463.0,457.0,6.0,405.0,58.0,448.0,413.0,8.4,425.0,418.0,1.7
-Crude Oil Production (Lower 48),13481.0,13490.0,-9.0,13077.0,404.0,13451.0,13046.0,3.1,13305.0,13019.0,2.2
-Transfers to Crude Oil Supply,433.0,887.0,-454.0,269.0,164.0,773.0,438.0,76.4,547.0,550.0,-0.6
-Net Crude Oil Imports (Incl. SPR),2227.0,3407.0,-1180.0,415.0,1812.0,2572.0,2306.0,11.5,1892.0,2290.0,-17.4
-Crude Oil Imports (Total),7058.0,6824.0,234.0,5692.0,1366.0,6703.0,6235.0,7.5,6175.0,6139.0,0.6
-Commercial Crude Oil Imports,7058.0,6824.0,234.0,5692.0,1366.0,6703.0,6235.0,7.5,6175.0,6139.0,0.6
-Crude Oil Exports (Total),4831.0,3417.0,1414.0,5277.0,-446.0,4131.0,3929.0,5.1,4283.0,3849.0,11.3
-Crude Oil Stock Change Rate,-149.0,-233.0,84.0,-1254.0,1105.0,-495.0,-108.0, ,-493.0,49.0, 
-Commercial Stock Change Rate,-91.0,-56.0,-36.0,-1326.0,1235.0,-192.0,-190.0, ,15.0,2.0, 
-SPR Stock Change Rate,-58.0,-178.0,120.0,72.0,-130.0,-302.0,82.0, ,-508.0,47.0, 
-Unaccounted Supply Adjustment,577.0,-888.0,1465.0,1003.0,-426.0,-287.0,436.0, ,13.0,87.0, 
-Refinery Crude Oil Inputs,17330.0,17586.0,-256.0,16424.0,906.0,17451.0,16748.0,4.2,16674.0,16315.0,2.2
-Total Petroleum Products Demand,21255.0,19313.0,1942.0,20637.0,618.0,20548.0,20671.0,-0.6,20593.0,20308.0,1.4
-Net Total Petroleum Imports,-3740.0,-3759.0,19.0,-3797.0,57.0,-3840.0,-2580.0,48.8,-4087.0,-2667.0,53.3
+Crude Oil Production (Total),13939.0,13944.0,-5.0,13501.0,438.0,13923.0,13475.0,3.3,13735.0,13438.0,2.2
+Crude Oil Production (Alaska),455.0,463.0,-8.0,423.0,32.0,455.0,413.0,10.1,426.0,418.0,1.9
+Crude Oil Production (Lower 48),13484.0,13481.0,3.0,13078.0,406.0,13469.0,13063.0,3.1,13310.0,13021.0,2.2
+Transfers to Crude Oil Supply,428.0,433.0,-6.0,273.0,154.0,659.0,383.0,72.0,544.0,543.0,0.2
+Net Crude Oil Imports (Incl. SPR),2596.0,2227.0,369.0,2011.0,585.0,2629.0,2203.0,19.4,1911.0,2283.0,-16.3
+Crude Oil Imports (Total),5877.0,7058.0,-1181.0,6495.0,-618.0,6632.0,6300.0,5.3,6167.0,6149.0,0.3
+Commercial Crude Oil Imports,5877.0,7058.0,-1181.0,6495.0,-618.0,6632.0,6300.0,5.3,6167.0,6149.0,0.3
+Crude Oil Exports (Total),3281.0,4831.0,-1550.0,4484.0,-1203.0,4003.0,4098.0,-2.3,4256.0,3866.0,10.1
+Crude Oil Stock Change Rate,366.0,-149.0,515.0,-54.0,420.0,-274.0,-64.0, ,-470.0,46.0, 
+Commercial Stock Change Rate,424.0,-91.0,516.0,-87.0,511.0,-90.0,-126.0, ,26.0,-1.0, 
+SPR Stock Change Rate,-58.0,-58.0,0.0,33.0,-91.0,-185.0,63.0, ,-496.0,47.0, 
+Unaccounted Supply Adjustment,215.0,577.0,-362.0,637.0,-422.0,-180.0,522.0, ,18.0,101.0, 
+Refinery Crude Oil Inputs,16811.0,17330.0,-519.0,16476.0,335.0,17306.0,16647.0,4.0,16678.0,16320.0,2.2
+Total Petroleum Products Demand,21050.0,21255.0,-205.0,20793.0,257.0,20573.0,20466.0,0.5,20605.0,20321.0,1.4
+Net Total Petroleum Imports,-3803.0,-3740.0,-63.0,-3527.0,-276.0,-3845.0,-2792.0,37.7,-4080.0,-2690.0,51.7
